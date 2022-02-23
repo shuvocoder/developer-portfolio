@@ -8,6 +8,7 @@ body{
     background-size: cover;
     max-height: 700px;
     display: flex;
+    background-color: #F4F6FB;
 }
 .left-part {
     width: 50%;
@@ -23,7 +24,7 @@ body{
     color: white;
     padding:10px 40px;
     margin-top: 40px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 .right-part{
     width: 50%
